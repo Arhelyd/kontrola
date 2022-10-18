@@ -1,0 +1,4 @@
+repos.txt
+zdalne
+origin	https://github.com/Arhelyd/kontrola.git (fetch)
+origin	https://github.com/Arhelyd/kontrola.git (push)
