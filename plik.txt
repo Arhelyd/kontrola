@@ -1,0 +1,1000 @@
+ 1206  touch plik2
+ 1207  touch plik3
+ 1208  touch plik4
+ 1209  touch plik5
+ 1210  mv plik1 kat2
+ 1211  mv plik3 kat2
+ 1212  ls
+ 1213  ls kat2
+ 1214  cp plik2 kat1
+ 1215  cp plik4 kat1
+ 1216  cp plik5 kat1
+ 1217  ln -s plik4 p4
+ 1218  ln plik5 p5
+ 1219  p5
+ 1220  nano p5
+ 1221  ls kat1
+ 1222  ls p5
+ 1223  p5
+ 1224  nano p4
+ 1225  ls kat1
+ 1226  ls kat2
+ 1227  ln plik5 p5
+ 1228  ln plik4 p4
+ 1229  ln plik3 p3
+ 1230  ln plik2 p2
+ 1231  p2 
+ 1232  p2
+ 1233  cd p2
+ 1234  nano p2
+ 1235  nano plik2
+ 1236  nano p2
+ 1237  nano plik2
+ 1238  nano p2
+ 1239  cat /etc/issue
+ 1240  cp /etc/issue student
+ 1241  ls student
+ 1242  cd student
+ 1243  ls
+ 1244  mkdir student
+ 1245  ls
+ 1246  mkdir student
+ 1247  cp /etc/issue student
+ 1248  cd student
+ 1249  ls
+ 1250  mw /etc/issue powitanie
+ 1251  mv /etc/issue powitanie
+ 1252  mv issue powitanie
+ 1253  ls
+ 1254  vi
+ 1255  rm
+ 1256  pwd
+ 1257  /var
+ 1258  cd /var
+ 1259  mkdir MOJKATALOG
+ 1260  cd student
+ 1261  cd home
+ 1262  cd grupa_3
+ 1263  cd
+ 1264  mkdir MOJKATALOG
+ 1265  cd MOJKATALOG
+ 1266  cd
+ 1267  cd mojkatalog
+ 1268  cd /sbin
+ 1269  ls
+ 1270  man
+ 1271  man rm
+ 1272  cd podstawy_programowania/
+ 1273  ls
+ 1274  cd 2
+ 1275  clear
+ 1276  cd ..
+ 1277  mkdir 3
+ 1278  cd 3
+ 1279  clear
+ 1280  nano zad1.cpp
+ 1281  g++ zad1.cpp
+ 1282  ./a.out 
+ 1283  nano zad2.cpp
+ 1284  g++ zad2.cpp
+ 1285  nano zad2.cpp
+ 1286  g++ zad2.cpp
+ 1287  ./a.out 
+ 1288  nano zad2.cpp
+ 1289  g++ zad2.cpp
+ 1290  nano zad2.cpp
+ 1291  ./a.out 
+ 1292  nano zad2.cpp
+ 1293  g++ zad2.cpp
+ 1294  ./a.out 
+ 1295  nano zad2.cpp
+ 1296  g++ zad2.cpp
+ 1297  ./a.out 
+ 1298  nano zad2.cpp
+ 1299  g++ zad2.cpp
+ 1300  ./a.out 
+ 1301  nano zad2.cpp
+ 1302  g++ zad2.cpp
+ 1303  ./a.out 
+ 1304  clear
+ 1305  nano zad2.cpp
+ 1306  g++ zad2.cpp
+ 1307  ./a.out 
+ 1308  nano zad2.cpp
+ 1309  g++ zad2.cpp
+ 1310  ./a.out 
+ 1311  nano zad2.cpp
+ 1312  g++ zad2.cpp
+ 1313  ./a.out 
+ 1314  nano zad2.cpp
+ 1315  g++ zad2.cpp
+ 1316  ./a.out 
+ 1317  nano zad2.cpp
+ 1318  g++ zad2.cpp
+ 1319  ./a.out 
+ 1320  nano zad2.cpp
+ 1321  ./a.out 
+ 1322  nano zad2.cpp
+ 1323  g++ zad2.cpp
+ 1324  ./a.out 
+ 1325  nano zad2.cpp
+ 1326  g++ zad2.cpp
+ 1327  nano zad2.cpp
+ 1328  g++ zad2.cpp
+ 1329  ./a.out 
+ 1330  nano zad2.cpp
+ 1331  g++ zad2.cpp
+ 1332  ./a.out 
+ 1333  nano zad2.cpp
+ 1334  g++ zad2.cpp
+ 1335  ./a.out 
+ 1336  nano zad2.cpp
+ 1337  g++ zad2.cpp
+ 1338  ./a.out 
+ 1339  nano zad2.cpp
+ 1340  g++ zad2.cpp
+ 1341  ./a.out 
+ 1342  nano zad2.cpp
+ 1343  g++ zad2.cpp
+ 1344  ./a.out 
+ 1345  nano zad2.cpp
+ 1346  g++ zad2.cpp
+ 1347  ./a.out 
+ 1348  nano zad2.cpp
+ 1349  clear
+ 1350  ./a.out 
+ 1351  nano zad2.cpp
+ 1352  g++ zad2.cpp
+ 1353  ./a.out 
+ 1354  clear\
+ 1355  clear
+ 1356  nano zad2.cpp 
+ 1357  g++ zad2.cpp
+ 1358  nano zad2.cpp 
+ 1359  g++ zad2.cpp
+ 1360  nano zad2.cpp 
+ 1361  g++ zad2.cpp
+ 1362  ./a.out 
+ 1363  nano zad2.cpp 
+ 1364  g++ zad2.cpp
+ 1365  ./a.out 
+ 1366  nano zad2.cpp 
+ 1367  ./a.out 
+ 1368  nano zad2.cpp 
+ 1369  ./a.out 
+ 1370  clear\
+ 1371  clear
+ 1372  ./a.out 
+ 1373  nano zad2.cpp 
+ 1374  ./a.out 
+ 1375  nano zad2.cpp 
+ 1376  ./a.out 
+ 1377  nano zad2.cpp 
+ 1378  clear
+ 1379  ./a.out 
+ 1380  nano zad2.cpp 
+ 1381  clear
+ 1382  g++ zad2.cpp
+ 1383  ./a.out 
+ 1384  nano zad2.cpp 
+ 1385  g++ zad2.cpp
+ 1386  ./a.out 
+ 1387  g++ zad2.cpp
+ 1388  ./a.out 
+ 1389  nano zad2.cpp 
+ 1390  g++ zad2.cpp
+ 1391  ./a.out 
+ 1392  nano zad2.cpp 
+ 1393  g++ zad2.cpp
+ 1394  clear
+ 1395  ./a.out 
+ 1396  nano zad2.cpp 
+ 1397  g++ zad2.cpp
+ 1398  clear
+ 1399  ./a.out 
+ 1400  nano zad2.cpp 
+ 1401  ./a.out 
+ 1402  nano zad2.cpp 
+ 1403  g++ zad2.cpp
+ 1404  clear
+ 1405  ./a.out 
+ 1406  nano zad2.cpp 
+ 1407  clear
+ 1408  g++ zad2.cpp
+ 1409  ./a.out 
+ 1410  nano zad2.cpp
+ 1411  g++ zad2.cpp
+ 1412  ./a.out 
+ 1413  nano zad2.cpp
+ 1414  g++ zad2.cpp
+ 1415  ./a.out 
+ 1416  nano zad2.cpp
+ 1417  clear
+ 1418  g++ zad2.cpp
+ 1419  ./a.out 
+ 1420  clear
+ 1421  nano zad3.cpp
+ 1422  g++ zad3.cpp
+ 1423  nano zad3.cpp
+ 1424  g++ zad3.cpp
+ 1425  nano zad3.cpp
+ 1426  g++ zad3.cpp
+ 1427  ./a.out 
+ 1428  clear
+ 1429  nano zad3.cpp
+ 1430  g++ zad3.cpp
+ 1431  ./a.out 
+ 1432  nano zad3.cpp
+ 1433  g++ zad3.cpp
+ 1434  ./a.out 
+ 1435  nano zad3.cpp
+ 1436  ./a.out 
+ 1437  nano zad3.cpp
+ 1438  g++ zad3.cpp
+ 1439  ./a.out 
+ 1440  nano zad3.cpp
+ 1441  g++ zad3.cpp
+ 1442  ./a.out 
+ 1443  nano zad3.cpp
+ 1444  g++ zad3.cpp
+ 1445  ./a.out 
+ 1446  clear
+ 1447  nano zad3.cpp
+ 1448  ./a.out 
+ 1449  g++ zad3.cpp
+ 1450  ./a.out 
+ 1451  nano zad3.cpp
+ 1452  g++ zad3.cpp
+ 1453  ./a.out 
+ 1454  nano zad3.cpp
+ 1455  g++ zad3.cpp
+ 1456  ./a.out 
+ 1457  nano zad3.cpp
+ 1458  g++ zad3.cpp
+ 1459  ./a.out 
+ 1460  nano zad3.cpp
+ 1461  g++ zad3.cpp
+ 1462  ./a.out 
+ 1463  nano zad3.cpp
+ 1464  g++ zad3.cpp
+ 1465  ./a.out 
+ 1466  nano zad3.cpp
+ 1467  g++ zad3.cpp
+ 1468  ./a.out 
+ 1469  nano zad3.cpp
+ 1470  g++ zad3.cpp
+ 1471  ./a.out 
+ 1472  nano zad3.cpp
+ 1473  g++ zad3.cpp
+ 1474  ./a.out 
+ 1475  nano zad3.cpp
+ 1476  g++ zad3.cpp
+ 1477  ./a.out 
+ 1478  nano zad3.cpp
+ 1479  g++ zad3.cpp
+ 1480  ./a.out 
+ 1481  nano zad3.cpp
+ 1482  g++ zad3.cpp
+ 1483  ./a.out 
+ 1484  nano zad3.cpp
+ 1485  ./a.out 
+ 1486  g++ zad3.cpp
+ 1487  ./a.out 
+ 1488  nano zad3.cpp
+ 1489  g++ zad3.cpp
+ 1490  ./a.out 
+ 1491  nano zad3.cpp
+ 1492  g++ zad3.cpp
+ 1493  ./a.out 
+ 1494  nano zad3.cpp
+ 1495  g++ zad3.cpp
+ 1496  ./a.out 
+ 1497  g++ zad3.cpp
+ 1498  nano zad3.cpp
+ 1499  ./a.out 
+ 1500  g++ zad3.cpp
+ 1501  ./a.out 
+ 1502  nano zad3.cpp
+ 1503  g++ zad3.cpp
+ 1504  ./a.out 
+ 1505  nano zad3.cpp
+ 1506  g++ zad3.cpp
+ 1507  ./a.out 
+ 1508  nano zad3.cpp
+ 1509  g++ zad3.cpp
+ 1510  ./a.out 
+ 1511  nano zad3.cpp
+ 1512  g++ zad3.cpp
+ 1513  ./a.out 
+ 1514  nano zad3.cpp
+ 1515  g++ zad3.cpp
+ 1516  ./a.out 
+ 1517  clear
+ 1518  nano zad3.cpp
+ 1519  g++ zad3.cpp
+ 1520  ./a.out 
+ 1521  nano zad3.cpp
+ 1522  g++ zad3.cpp
+ 1523  ./a.out 
+ 1524  nano zad3.cpp
+ 1525  g++ zad3.cpp
+ 1526  ./a.out 
+ 1527  nano zad3.cpp
+ 1528  g++ zad3.cpp
+ 1529  ./a.out 
+ 1530  nano zad3.cpp
+ 1531  g++ zad3.cpp
+ 1532  ./a.out 
+ 1533  nano zad3.cpp
+ 1534  g++ zad3.cpp
+ 1535  ./a.out 
+ 1536  nano zad3.cpp
+ 1537  g++ zad3.cpp
+ 1538  nano zad3.cpp
+ 1539  g++ zad3.cpp
+ 1540  ./a.out 
+ 1541  nano zad3.cpp
+ 1542  g++ zad3.cpp
+ 1543  ./a.out 
+ 1544  nano zad3.cpp
+ 1545  g++ zad3.cpp
+ 1546  ./a.out 
+ 1547  nano zad3.cpp
+ 1548  g++ zad3.cpp
+ 1549  ./a.out 
+ 1550  nano zad3.cpp
+ 1551  g++ zad3.cpp
+ 1552  ./a.out 
+ 1553  nano zad3.cpp
+ 1554  g++ zad3.cpp
+ 1555  ./a.out 
+ 1556  nano zad3.cpp
+ 1557  g++ zad3.cpp
+ 1558  ./a.out 
+ 1559  nano zad3.cpp
+ 1560  g++ zad3.cpp
+ 1561  nano zad3.cpp
+ 1562  g++ zad3.cpp
+ 1563  ./a.out 
+ 1564  nano zad3.cpp
+ 1565  g++ zad3.cpp
+ 1566  ./a.out 
+ 1567  nano zad3.cpp
+ 1568  g++ zad3.cpp
+ 1569  ./a.out 
+ 1570  nano zad3.cpp
+ 1571  g++ zad3.cpp
+ 1572  ./a.out 
+ 1573  nano zad3.cpp
+ 1574  ./a.out 
+ 1575  g++ zad3.cpp
+ 1576  ./a.out 
+ 1577  nano zad3.cpp
+ 1578  clear
+ 1579  nano zad3.cpp
+ 1580  g++ zad3.cpp
+ 1581  nano zad3.cpp
+ 1582  g++ zad3.cpp
+ 1583  ./a.out 
+ 1584  nano zad3.cpp
+ 1585  g++ zad3.cpp
+ 1586  ./a
+ 1587  ./a.out 
+ 1588  nano zad3.cpp
+ 1589  ./a
+ 1590  g++ zad3.cpp
+ 1591  ./a.out 
+ 1592  ./a
+ 1593  nano zad3.cpp
+ 1594  g++ zad3.cpp
+ 1595  ./a.out 
+ 1596  nano zad3.cpp
+ 1597  g++ zad3.cpp
+ 1598  ./a.out 
+ 1599  nano zad3.cpp
+ 1600  g++ zad3.cpp
+ 1601  ./a.out 
+ 1602  nano zad3.cpp
+ 1603  g++ zad3.cpp
+ 1604  ./a.out 
+ 1605  nano zad3.cpp
+ 1606  g++ zad3.cpp
+ 1607  ./a.out 
+ 1608  nano zad3.cpp
+ 1609  nano zad4.cpp
+ 1610  g++ zad4.cpp
+ 1611  ./a.out 
+ 1612  nano zad4.cpp
+ 1613  g++ zad4.cpp
+ 1614  ./a.out 
+ 1615  nano zad4.cpp
+ 1616  g++ zad4.cpp
+ 1617  ./a.out 
+ 1618  nano zad4.cpp
+ 1619  g++ zad4.cpp
+ 1620  ./a.out 
+ 1621  nano zad4.cpp
+ 1622  clear
+ 1623  g++ zad4.cpp
+ 1624  ./a.out 
+ 1625  clear
+ 1626  nano zad4.cpp
+ 1627  g++ zad4.cpp
+ 1628  ./a.out 
+ 1629  nano zad4.cpp
+ 1630  g++ zad4.cpp
+ 1631  ./a.out 
+ 1632  clear
+ 1633  nano zad4.cpp
+ 1634  g++ zad4.cpp
+ 1635  ./a.out 
+ 1636  nano zad4.cpp
+ 1637  g++ zad4.cpp
+ 1638  clear
+ 1639  ./a.out 
+ 1640  clear
+ 1641  nano zad4.cpp
+ 1642  ./a.out 
+ 1643  nano zad4.cpp
+ 1644  g++ zad4.cpp
+ 1645  ./a.out 
+ 1646  clear
+ 1647  nano zad4.cpp
+ 1648  g++ zad4.cpp
+ 1649  ./a.out 
+ 1650  nano zad4.cpp
+ 1651  g++ zad4.cpp
+ 1652  ./a.out 
+ 1653  clear
+ 1654  g++ zad4.cpp
+ 1655  clear
+ 1656  ./a.out 
+ 1657  clear
+ 1658  nano zad4.cpp
+ 1659  ./a.out 
+ 1660  nano zad4.cpp
+ 1661  g++ zad4.cpp
+ 1662  ./a.out 
+ 1663  nano zad4.cpp
+ 1664  g++ zad4.cpp
+ 1665  ./a.out 
+ 1666  nano zad4.cpp
+ 1667  g++ zad4.cpp
+ 1668  ./a.out 
+ 1669  clear
+ 1670  ./a.out 
+ 1671  nano zad4.cpp
+ 1672  clear
+ 1673  g++ zad4.cpp
+ 1674  ./a.out 
+ 1675  nano zad4.cpp
+ 1676  g++ zad4.cpp
+ 1677  ./a.out 
+ 1678  clear
+ 1679  nano zad4.cpp
+ 1680  g++ zad4.cpp
+ 1681  ./a.out 
+ 1682  nano zad4.cpp
+ 1683  g++ zad4.cpp
+ 1684  ./a.out 
+ 1685  nano zad4.cpp
+ 1686  g++ zad4.cpp
+ 1687  ./a.out 
+ 1688  clear
+ 1689  ./a.out 
+ 1690  clear
+ 1691  ./a.out 
+ 1692  clear
+ 1693  nano zad4.cpp
+ 1694  ./a.out 
+ 1695  clear
+ 1696  nano zad4.cpp
+ 1697  g++ zad4.cpp
+ 1698  ./a.out 
+ 1699  nano zad4.cpp
+ 1700  g++ zad4.cpp
+ 1701  ./a.out 
+ 1702  nano zad4.cpp
+ 1703  g++ zad4.cpp
+ 1704  ./a.out 
+ 1705  nano zad4.cpp
+ 1706  g++ zad4.cpp
+ 1707  ./a.out 
+ 1708  nano zad4.cpp
+ 1709  g++ zad4.cpp
+ 1710  ./a.out 
+ 1711  nano zad4.cpp
+ 1712  g++ zad4.cpp
+ 1713  ./a.out 
+ 1714  nano zad4.cpp
+ 1715  g++ zad4.cpp
+ 1716  clear
+ 1717  ./a.out 
+ 1718  nano zad4.cpp
+ 1719  g++ zad4.cpp
+ 1720  ./a.out 
+ 1721  clear
+ 1722  nano zad4.cpp
+ 1723  nano zad5.cpp
+ 1724  nano zad4.cpp
+ 1725  g++ zad4.cpp
+ 1726  nano zad4.cpp
+ 1727  g++ zad4.cpp
+ 1728  ./a.out 
+ 1729  \clear
+ 1730  nano zad5.cpp
+ 1731  g++ zad5.cpp
+ 1732  ./a.out 
+ 1733  clear
+ 1734  nano zad5.cpp
+ 1735  g++ zad5.cpp
+ 1736  nano zad5.cpp
+ 1737  g++ zad5.cpp
+ 1738  nano zad5.cpp
+ 1739  g++ zad5.cpp
+ 1740  ./a.out 
+ 1741  clear
+ 1742  nano zad5.cpp
+ 1743  nano zad55.cpp
+ 1744  g++ zad55.cpp
+ 1745  nano zad55.cpp
+ 1746  g++ zad55.cpp
+ 1747  ./a.out 
+ 1748  g++ zad55.cpp
+ 1749  nano zad55.cpp
+ 1750  ./a.out 
+ 1751  g++ zad55.cpp
+ 1752  ./a.out 
+ 1753  nano zad55.cpp
+ 1754  g++ zad55.cpp
+ 1755  ./a.out 
+ 1756  clear
+ 1757  nano zad6.cpp
+ 1758  nano zad4.cpp
+ 1759  nano zad5.cpp
+ 1760  nano zad6.cpp
+ 1761  nano zad66.cpp
+ 1762  nano zad5.cpp
+ 1763  nano zad55.cpp
+ 1764  rm zad66.cpp
+ 1765  rm zad6.cpp
+ 1766  cp zad55.cpp zad6.cpp
+ 1767  nano zad6.cpp
+ 1768  g++ zad6.cpp
+ 1769  nano zad6.cpp
+ 1770  g++ zad6.cpp
+ 1771  ./a.out 
+ 1772  nano zad6.cpp
+ 1773  g++ zad6.cpp
+ 1774  ./a.out 
+ 1775  nano zad6.cpp
+ 1776  g++ zad6.cpp
+ 1777  ./a.out 
+ 1778  nano zad6.cpp
+ 1779  g++ zad6.cpp
+ 1780  ./a.out 
+ 1781  nano zad6.cpp
+ 1782  g++ zad6.cpp
+ 1783  ./a.out 
+ 1784  nano zad6.cpp
+ 1785  ./a.out 
+ 1786  clear
+ 1787  nano zad7.cpp
+ 1788  ./a.out 
+ 1789  clear
+ 1790  nano zad6.cpp
+ 1791  nano zad5.cpp
+ 1792  nano zad55.cpp
+ 1793  nano zad7.cpp
+ 1794  nano zad5.cpp
+ 1795  nano zad55.cpp
+ 1796  g++ zad55.cpp
+ 1797  ./a.out 
+ 1798  clear
+ 1799  nano zad55.cpp
+ 1800  nano zad7.cpp
+ 1801  nano za5.cpp
+ 1802  nano zad55.cpp
+ 1803  nano zad6.cpp
+ 1804  nano zad7.cpp
+ 1805  g++ zad7.cpp
+ 1806  nano zad7.cpp
+ 1807  g++ zad7.cpp
+ 1808  nano zad7.cpp
+ 1809  g++ zad7.cpp
+ 1810  nano zad7.cpp
+ 1811  g++ zad7.cpp
+ 1812  ./a.out 
+ 1813  nano zad7.cpp
+ 1814  ./a.out 
+ 1815  g++ zad7.cpp
+ 1816  ./a.out 
+ 1817  nano zad7.cpp
+ 1818  g++ zad7.cpp
+ 1819  ./a.out 
+ 1820  nano zad7.cpp
+ 1821  g++ zad7.cpp
+ 1822  ./a.out 
+ 1823  g++ zad7.cpp
+ 1824  ./a.out 
+ 1825  nano zad7.cpp
+ 1826  g++ zad7.cpp
+ 1827  ./a.out 
+ 1828  nano zad7.cpp
+ 1829  g++ zad7.cpp
+ 1830  ./a.out 
+ 1831  nano zad7.cpp
+ 1832  g++ zad7.cpp
+ 1833  ./a.out 
+ 1834  nano zad7.cpp
+ 1835  g++ zad7.cpp
+ 1836  ./a.out 
+ 1837  nano zad7.cpp
+ 1838  g++ zad7.cpp
+ 1839  ./a.out 
+ 1840  nano zad7.cpp
+ 1841  g++ zad7.cpp
+ 1842  ./a.out 
+ 1843  nano zad7.cpp
+ 1844  ./a.out 
+ 1845  g++ zad7.cpp
+ 1846  ./a.out 
+ 1847  nano zad7.cpp
+ 1848  g++ zad7.cpp
+ 1849  ./a.out 
+ 1850  clear
+ 1851  nano zad7.cpp
+ 1852  g++ zad7.cpp
+ 1853  ./a.out 
+ 1854  nano zad7.cpp
+ 1855  g++ zad7.cpp
+ 1856  ./a.out 
+ 1857  nano zad8.cpp
+ 1858  g++ zad8.cpp
+ 1859  ./a.out 
+ 1860  nano zad8.cpp
+ 1861  g++ zad8.cpp
+ 1862  ./a.out 
+ 1863  nano zad8.cpp
+ 1864  g++ zad8.cpp
+ 1865  ./a.out 
+ 1866  g++ zad8.cpp
+ 1867  nano zad8.cpp
+ 1868  ./a.out 
+ 1869  g++ zad8.cpp
+ 1870  ./a.out 
+ 1871  nano zad8.cpp
+ 1872  g++ zad8.cpp
+ 1873  ./a.out 
+ 1874  nano zad6.cpp
+ 1875  nano zad5.cpp
+ 1876  nano zad9.cpp
+ 1877  g++ zad9.cpp
+ 1878  nano zad9.cpp
+ 1879  g++ zad9.cpp
+ 1880  ./a.out 
+ 1881  clear
+ 1882  nano zad9.cpp
+ 1883  nano zad55.cpp
+ 1884  nano zad9.cpp
+ 1885  g++ zad9.cpp
+ 1886  ./a.out 
+ 1887  nano zad9.cpp
+ 1888  g++ zad9.cpp
+ 1889  ./a.out 
+ 1890  nano zad9.cpp
+ 1891  g++ zad9.cpp
+ 1892  ./a.out 
+ 1893  nano zad9.cpp
+ 1894  nano zad8.cpp
+ 1895  g++ zad8.cpp
+ 1896  ./a.out 
+ 1897  nano zad8.cpp
+ 1898  g++ zad8.cpp
+ 1899  ./a.out 
+ 1900  clear
+ 1901  nano zad8.cpp
+ 1902  g++ zad8.cpp
+ 1903  ./a.out 
+ 1904  nano zad8.cpp
+ 1905  g++ zad8.cpp
+ 1906  ./a.out 
+ 1907  clear
+ 1908  nano zad9.cpp
+ 1909  g++ zad9.cpp
+ 1910  ./a.out 
+ 1911  nano zad9.cpp
+ 1912  g++ zad9.cpp
+ 1913  ./a.out 
+ 1914  nano zad9.cpp
+ 1915  g++ zad9.cpp
+ 1916  ./a.out 
+ 1917  nano zad9.cpp
+ 1918  g++ zad9.cpp
+ 1919  ./a.out 
+ 1920  nano zad9.cpp
+ 1921  nano zad6.cpp
+ 1922  nano zad9.cpp
+ 1923  g++ zad9.cpp
+ 1924  ./a.out 
+ 1925  nano zad9.cpp
+ 1926  g++ zad9.cpp
+ 1927  ./a.out 
+ 1928  nano zad9.cpp
+ 1929  g++ zad9.cpp
+ 1930  ./a.out 
+ 1931  nano zad9.cpp
+ 1932  g++ zad9.cpp
+ 1933  ./a.out 
+ 1934  ls
+ 1935  cd Dokumenty/
+ 1936  ls
+ 1937  cd zaj.1/
+ 1938  ls
+ 1939  ls -a
+ 1940  ls
+ 1941  cat plik.txt
+ 1942  cat plik2.txt
+ 1943  git status
+ 1944  ls -a
+ 1945  echo "\n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" > plik2.txt
+ 1946  cat plik2.txt 
+ 1947  echo "/n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" > plik2.txt
+ 1948  cat plik2.txt 
+ 1949  echo '\n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' > plik2.txt
+ 1950  cat plik2.txt 
+ 1951  echo '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' > plik2.txt
+ 1952  ssh-keygen
+ 1953  cat /home/student/.ssh/id_rsa.pub 
+ 1954  clear
+ 1955  git status
+ 1956  git add .
+ 1957  git commit "added key and ssh-key"
+ 1958  git commit -am "added key and ssh-key"
+ 1959  git push
+ 1960  ls -a
+ 1961  cd ..
+ 1962  ls
+ 1963  mkdir sshtest
+ 1964  cd s
+ 1965  cd sshtest/
+ 1966  git@github.com:Arhelyd/z1.git
+ 1967  git clone git@github.com:Arhelyd/z1.git
+ 1968  ls -a
+ 1969  ls
+ 1970  cd ..
+ 1971  ls
+ 1972  cd zaj.1/
+ 1973  ;s
+ 1974  ls
+ 1975  git status
+ 1976  git push
+ 1977  git remote set-url origin git@github.com:Arhelyd/z1.git
+ 1978  git push
+ 1979  git remote -v
+ 1980  history | head - 20
+ 1981  history | less - 20
+ 1982  history
+ 1983  git pull
+ 1984  git -h
+ 1985  git help
+ 1986  git shiw
+ 1987  git show
+ 1988  git log
+ 1989  git restore 331
+ 1990  git restore 331daf
+ 1991  git show 331daf
+ 1992  clear
+ 1993  git log
+ 1994  ls
+ 1995  vim .gitignore
+ 1996  vim hw.py
+ 1997  ls
+ 1998  it config --global user.name "arhelyd"
+ 1999  git config --global user.name "arhelyd"
+ 2000  git config --global user.email "damitomp@gmail.com"
+ 2001  git config user.email "damitomp@gmail.com"
+ 2002  git config user.name "arhelyd"
+ 2003  git add .
+ 2004  git status
+ 2005  git commit -am "added gitignore"
+ 2006  git push
+ 2007  git config user.email "damitom@o2.pl"
+ 2008  git push
+ 2009  git config user.email --global "damitom@o2.pl"
+ 2010  git push
+ 2011  cd ..
+ 2012  mv zaj.1 zaj.22
+ 2013  git clone https://github.com/Arhelyd/z1.git
+ 2014  cd zaj.22/
+ 2015  ls
+ 2016  cp hw.py ./../zaj.1/
+ 2017  cp hw.py ../zaj.1/
+ 2018  cd ..
+ 2019  ls
+ 2020  git clone https://github.com/Arhelyd/z1.git
+ 2021  cd z1/
+ 2022  ls
+ 2023  cd ..
+ 2024  mkdir pierwszy
+ 2025  cd pierwszy/
+ 2026  git clone https://github.com/Arhelyd/kontrola.git
+ 2027  ls
+ 2028  cd kontrola/
+ 2029  touch smile.txt
+ 2030  git add smile.txt 
+ 2031  git commit -am "Pierwszy commit"
+ 2032  git push
+ 2033  git config -l
+ 2034  git config --global user.email "damitom@o2.pl"
+ 2035  git config -l
+ 2036  git push
+ 2037  echo "Sara" > smile.txt 
+ 2038  git add smile.txt 
+ 2039  git commit -am "Zmiana(Sara)"
+ 2040  touch jeden.txt
+ 2041  touch dwa.txt
+ 2042  git add .
+ 2043  git commit -am "Dodane pliki(JD)"
+ 2044  git push
+ 2045  cd ..
+ 2046  ls
+ 2047  mkdir drugi
+ 2048  cd drugi
+ 2049  git clone https://github.com/Arhelyd/kontrola.git
+ 2050  ls
+ 2051  cd kontrola/
+ 2052  ls
+ 2053  git remote -v
+ 2054  git remote -v > zdalne/repos.txt
+ 2055  git remote -v > ./zdalne/repos.txt
+ 2056  git remote -v >repos .txt
+ 2057  git remote -v >repos.txt
+ 2058  ls
+ 2059  rm repos
+ 2060  ls
+ 2061  cat repos.txt 
+ 2062  mkdir zdalne
+ 2063  mv repos.txt zdalne/repos.txt
+ 2064  cd zdalne/
+ 2065  ls
+ 2066  cd ..
+ 2067  git add .
+ 2068  git commit "check remote"
+ 2069  git commit -am "check remote"
+ 2070  git push
+ 2071  cd ..
+ 2072  ls
+ 2073  cd ..
+ 2074  ls
+ 2075  cd pierwszy/
+ 2076  ls
+ 2077  cd kontrola/
+ 2078  ls
+ 2079  git pull
+ 2080  ls
+ 2081  ls zdalne
+ 2082  ls
+ 2083  cd zdalne
+ 2084  ls
+ 2085  mkdir zdalne
+ 2086  ls
+ 2087  rm -fr zdalne
+ 2088  ls
+ 2089  ls > zdalne/repos.txt
+ 2090  mkdir zdalne
+ 2091  ls > zdalne/repos.txt
+ 2092  ls
+ 2093  cd zdalne/
+ 2094  ls
+ 2095  mv repos.txt prepos.txt
+ 2096  pwd
+ 2097  cd ..
+ 2098  ls
+ 2099  ls -a
+ 2100  cd ..
+ 2101  ls
+ 2102  cd pierwszy/
+ 2103  ls
+ 2104  cd kontrola/
+ 2105  ls
+ 2106  ls -a
+ 2107  git remote -v >> zdalne/zdalne/prepos.txt
+ 2108  git add .
+ 2109  git commit -am "zad18"
+ 2110  git push
+ 2111  cd ..
+ 2112  ls
+ 2113  cd drugi/
+ 2114  ls
+ 2115  cd kontrola/
+ 2116  ls
+ 2117  git pull
+ 2118  touch toignore.txt
+ 2119  git status
+ 2120  git add toignore.txt 
+ 2121  git remove toignore.txt
+ 2122  git rm toignore.txt
+ 2123  git rm -f toignore.txt
+ 2124  touch toignore.txt
+ 2125  git status
+ 2126  vim .gitignore
+ 2127  git status
+ 2128  cd zdalne && touch jeden.pdf dwa.txt trzy.png
+ 2129  ls
+ 2130  git add .
+ 2131  cd ..
+ 2132  ls
+ 2133  ls -a
+ 2134  vim .gitignore
+ 2135  git add .
+ 2136  git commit -am "Ignorowanie"
+ 2137  touch test.pdf test.png
+ 2138  git status
+ 2139  git remove test.pdf test.png
+ 2140  git rm test.pdf test.png
+ 2141  git rm test.png
+ 2142  ls
+ 2143  git rm -f test.png
+ 2144  ls
+ 2145  git rm -f test.pdf
+ 2146  ls
+ 2147  mv test.pdf /dev/null
+ 2148  sudo mv test.pdf /dev/null
+ 2149  ls -a
+ 2150  git rm smile.txt
+ 2151  touch smile.txt
+ 2152  echo "Sara" >smile.txt
+ 2153  clear
+ 2154  git status
+ 2155  ls
+ 2156  git rm -f test.pdf
+ 2157  git add .
+ 2158  git rm -f test.pdf
+ 2159  rm test.pdf
+ 2160  rm test.png
+ 2161  ls
+ 2162  git rm dwa.txt 
+ 2163  git commit -am "Usuwanie"
+ 2164  touch merge.txt
+ 2165  echo "linia1" >merge.txt 
+ 2166  mv merge.txt /zdalne/merge.txt
+ 2167  ls
+ 2168  mv merge.txt  /zdalne/merge.txt
+ 2169  mv merge.txt  /zdalne/merge.txt
+ 2170  mv merge.txt  dalne/merge.txt
+ 2171  mv merge.txt zdalne/merge.txt
+ 2172  git add .
+ 2173  git commit "zad27"
+ 2174  git commit -am "zad27"
+ 2175  git push
+ 2176  ls
+ 2177  cd ..
+ 2178  ls
+ 2179  cd ..
+ 2180  ls
+ 2181  cd ..
+ 2182  ls
+ 2183  cd pierwszy/
+ 2184  ls
+ 2185  cd kontrola/
+ 2186  ls
+ 2187  cd zdal
+ 2188  cd zdalne/
+ 2189  touch merge2.txt
+ 2190  echo "linia1" > merge2.txt 
+ 2191  git add .
+ 2192  git commit -am "Nowy plik"
+ 2193  git push
+ 2194  ls
+ 2195  git pull
+ 2196  git push
+ 2197  ls
+ 2198  cd ..
+ 2199  ls
+ 2200  cd ..
+ 2201  ls
+ 2202  cd kontrola/
+ 2203  ls
+ 2204  touch plik.txt
+ 2205  history > plik.txt
