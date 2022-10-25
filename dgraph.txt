@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 * commit 5e840c78d69e8003ffeaa8f87c0779972359bde8 (HEAD -> master)
 | Author: arhelyd <damitom@o2.pl>
 | Date:   Tue Oct 25 18:21:55 2022 +0200
@@ -41,6 +42,19 @@
 |   Date:   Tue Oct 25 18:01:43 2022 +0200
 |   
 |       GHI
+=======
+* commit 057db29beddb9c55838542e29c7917e64d498a7f
+| Author: arhelyd <damitom@o2.pl>
+| Date:   Tue Oct 25 18:12:55 2022 +0200
+| 
+|     graph
+| 
+* commit b8846c7dfb8299982ba4ed3002299c589aa93ff3
+| Author: arhelyd <damitom@o2.pl>
+| Date:   Tue Oct 25 18:06:56 2022 +0200
+| 
+|     aGHI
+>>>>>>> alfa
 | 
 * commit 0ca156d695d9f2ab98c7284ce44dc9240eb6744f
 | Author: arhelyd <damitom@o2.pl>
@@ -60,7 +74,11 @@
 | 
 |     Zadanie do wykładu4. - start
 | 
+<<<<<<< HEAD
 * commit 7f9226cec39e7fab2d9bb7b04af08b475f478f7d (origin/master, origin/HEAD)
+=======
+* commit 7f9226cec39e7fab2d9bb7b04af08b475f478f7d
+>>>>>>> alfa
 | Author: arhelyd <damitom@o2.pl>
 | Date:   Tue Oct 18 18:53:01 2022 +0200
 | 
