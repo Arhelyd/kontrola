@@ -1,0 +1,128 @@
+* commit 5e840c78d69e8003ffeaa8f87c0779972359bde8 (HEAD -> master)
+| Author: arhelyd <damitom@o2.pl>
+| Date:   Tue Oct 25 18:21:55 2022 +0200
+| 
+|     amdiff
+|   
+*   commit f6643aa8925c2b0649950d1bf6574321edbeb694
+|\  Merge: 6d53f1f 057db29
+| | Author: arhelyd <damitom@o2.pl>
+| | Date:   Tue Oct 25 18:20:27 2022 +0200
+| | 
+| |     Merge branch 'beta'
+| | 
+| * commit 057db29beddb9c55838542e29c7917e64d498a7f
+| | Author: arhelyd <damitom@o2.pl>
+| | Date:   Tue Oct 25 18:12:55 2022 +0200
+| | 
+| |     graph
+| | 
+* | commit 6d53f1f47d5aecf2b40232f78c09624048f360a3
+| | Author: arhelyd <damitom@o2.pl>
+| | Date:   Tue Oct 25 18:11:17 2022 +0200
+| | 
+| |     moneline
+| | 
+* | commit 894c90481f57d394462b8d8502168df5e764dba0
+|\| Merge: 90953b5 b8846c7
+| | Author: arhelyd <damitom@o2.pl>
+| | Date:   Tue Oct 25 18:07:43 2022 +0200
+| | 
+| |     Merge branch 'alfa'
+| | 
+| * commit b8846c7dfb8299982ba4ed3002299c589aa93ff3
+| | Author: arhelyd <damitom@o2.pl>
+| | Date:   Tue Oct 25 18:06:56 2022 +0200
+| | 
+| |     aGHI
+| | 
+* | commit 90953b59b5310beb4f18f35bd60f2b62e180581c
+|/  Author: arhelyd <damitom@o2.pl>
+|   Date:   Tue Oct 25 18:01:43 2022 +0200
+|   
+|       GHI
+| 
+* commit 0ca156d695d9f2ab98c7284ce44dc9240eb6744f
+| Author: arhelyd <damitom@o2.pl>
+| Date:   Tue Oct 25 17:55:42 2022 +0200
+| 
+|     DEF na alfa
+| 
+* commit 30c46b0c97276d8bf223d345d764a5226a90e658
+| Author: arhelyd <damitom@o2.pl>
+| Date:   Tue Oct 25 17:54:38 2022 +0200
+| 
+|     mbran
+| 
+* commit 871fe8c3528de7647ef0ca33132937d7c7ff0efa
+| Author: arhelyd <damitom@o2.pl>
+| Date:   Tue Oct 25 17:53:32 2022 +0200
+| 
+|     Zadanie do wykładu4. - start
+| 
+* commit 7f9226cec39e7fab2d9bb7b04af08b475f478f7d (origin/master, origin/HEAD)
+| Author: arhelyd <damitom@o2.pl>
+| Date:   Tue Oct 18 18:53:01 2022 +0200
+| 
+|     dodanie historii
+|   
+*   commit 7655e7fc643a6e8c6b38c4db4c615e8e06cdea1c
+|\  Merge: 3349e27 754bd6a
+| | Author: arhelyd <damitom@o2.pl>
+| | Date:   Tue Oct 18 18:49:23 2022 +0200
+| | 
+| |     Merge branch 'master' of https://github.com/Arhelyd/kontrola
+| | 
+| * commit 754bd6a470b03a748d39727002a2c7fa1daaf406
+| | Author: arhelyd <damitom@o2.pl>
+| | Date:   Tue Oct 18 18:47:40 2022 +0200
+| | 
+| |     zad27
+| | 
+| * commit c1d7ac86f27ab404b0e4f26e8cc0dc2febb43ca9
+| | Author: arhelyd <damitom@o2.pl>
+| | Date:   Tue Oct 18 18:46:13 2022 +0200
+| | 
+| |     Usuwanie
+| | 
+| * commit 34b38d99d0c6bc92d235dcc50da7ca78ab695576
+| | Author: arhelyd <damitom@o2.pl>
+| | Date:   Tue Oct 18 18:41:11 2022 +0200
+| | 
+| |     Ignorowanie
+| | 
+* | commit 3349e2760f4fbbb63f7994379c5935e6a718bf05
+|/  Author: arhelyd <damitom@o2.pl>
+|   Date:   Tue Oct 18 18:49:00 2022 +0200
+|   
+|       Nowy plik
+| 
+* commit 0df2c9b5c726ea1305614f459796b03d8204711a
+| Author: arhelyd <damitom@o2.pl>
+| Date:   Tue Oct 18 18:37:23 2022 +0200
+| 
+|     zad18
+| 
+* commit 8fc987d44f5ebfb7e0307d905516cac22c93a898
+| Author: arhelyd <damitom@o2.pl>
+| Date:   Tue Oct 18 18:29:32 2022 +0200
+| 
+|     check remote
+| 
+* commit 36a4a59e39ce286dab002db53f7764a7a9fa5cd5
+| Author: arhelyd <damitom@o2.pl>
+| Date:   Tue Oct 18 18:26:09 2022 +0200
+| 
+|     Dodane pliki(JD)
+| 
+* commit 0061f74da7fed30d1fc3331f165a3e304efa5f59
+| Author: arhelyd <damitom@o2.pl>
+| Date:   Tue Oct 18 18:25:34 2022 +0200
+| 
+|     Zmiana(Sara)
+| 
+* commit 4b29194f5748d577d9342d00fc2cf2a19e1d1d26
+  Author: arhelyd <damitomp@gmail.com>
+  Date:   Tue Oct 18 18:20:56 2022 +0200
+  
+      Pierwszy commit
